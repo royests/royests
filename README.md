@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#">
     <img 
-      src="https://img.shields.io/badge/click%20for%20download-Soft%20Bundle%20Manager-8A2BE2?style=for-the-badge&labelColor=444444" 
+      src="https://github.com" 
       alt="Download Soft Bundle Manager"
     />
   </a>
